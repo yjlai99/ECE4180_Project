@@ -26,7 +26,8 @@
 ![Car Setup](car_setup_2.JPG)
 
 ## Demo
-[Insert YouTube video link here]
+## Demo
+[![Watch the Video](https://img.youtube.com/vi/BDs-cW3G900/0.jpg)](https://youtu.be/BDs-cW3G900)
 
 ## Summary
 - The Smart Obstacle Avoidance and Manual Control Car has been successfully developed and tested, performing largely as expected. A notable limitation is the ultrasonic sensor's narrow field of view, which can lead to the car's edges occasionally colliding with obstacles. This is primarily due to the sensor's inability to detect objects that are not directly in front of it.
