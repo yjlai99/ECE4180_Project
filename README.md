@@ -22,8 +22,8 @@
 ![Block Diagram](block_diagram.png)
 
 ## Device Setup
-![Car Setup](car_setup_1.png)
-![Car Setup](car_setup_2.png)
+![Car Setup](car_setup_1.JPG)
+![Car Setup](car_setup_2.JPG)
 
 ## Demo
 [Insert YouTube video link here]
