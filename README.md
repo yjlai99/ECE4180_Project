@@ -19,10 +19,11 @@
 - **Dual H-bridge motor driver**: Controls the car's movement.
 
 ## Block Diagram
-[Insert block diagram image here]
+![Block Diagram](block_diagram.png)
 
 ## Device Setup
-[Insert images of the car setup here]
+![Car Setup](car_setup_1.png)
+![Car Setup](car_setup_2.png)
 
 ## Demo
 [Insert YouTube video link here]
